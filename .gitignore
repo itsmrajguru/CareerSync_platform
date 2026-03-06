@@ -1,0 +1,6 @@
+# Node and frontend ignores
+node_modules/
+.env
+/build
+/dist
+.DS_Store
